@@ -1,0 +1,2 @@
+# Travel-management
+Takes the personal details of traveller along with number of tickets to be booked. Provides option for Domestic as well As International Travelling . For Domestic Travelling Program provides further options Of Airways and Road Ways travelling . Send the OTP stored in the form of text file ( OTP.txt) and stores bill details in Seperate text file . Also stores the Bill Record Detail in totalBill.txt .  © 2022 GitHub, Inc. Terms Privacy Security Status Docs Contact GitHub Pri
